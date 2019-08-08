@@ -1,0 +1,26 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/habsh/project1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "2.38.3",
+    "edgedriver": "^4.17134.1",
+    "geckodriver": "^1.16.2",
+    "nightwatch": "0.9.21",
+    "selenium-server": "3.12.0"
+  },
+  "bugs": {
+    "url": "https://github.com/habsh/project1/issues"
+  },
+  "homepage": "https://github.com/habsh/project1#readme"
+}
